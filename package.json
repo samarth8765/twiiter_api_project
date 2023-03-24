@@ -1,0 +1,21 @@
+{
+  "name": "rohil_bhai_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemonnp app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "got": "^12.6.0",
+    "needle": "^3.2.0",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
